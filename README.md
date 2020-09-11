@@ -119,5 +119,5 @@ Also, TextCNN, RNN, and Fasttext are all better than wellknown traditional class
 
 ## 9.References
 1. Implementing a CNN for Text Classification in TensorFlow, Denny Britz http://www.wildml.com/2015/12/implementing-a-cnn-fortext-classification-in-tensorflow/
-2. Tensorflow-Tutorials, 10-RNN 01-MNIST, golbin https://github.com/golbin/TensorFlowTutorials/blob/master/10%20-%|20RNN/01%20- %20MNIST.py
+2. Tensorflow-Tutorials, 10-RNN 01-MNIST, golbin https://github.com/golbin/TensorFlowTutorials/blob/master/10%20-%|20RNN/01%20-%20MNIST.py
 3. Yoon Kim. Convolutional Neural Networks for Sentence Classification. 2014.
